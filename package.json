@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Ch1nmayH.github.io/Travel-Agency-FrontEnd",
+  "homepage": "https://travelgo.chinmayh.me",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
